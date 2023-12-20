@@ -1,4 +1,4 @@
-# This Or That App
+# This or That App
 
 This Android application is a simple voting app that allows users to make a choice between two options. After users make their choices, they can see the percentage of votes for each option.
 
